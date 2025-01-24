@@ -12,7 +12,9 @@ const schools = [
     { name: "Columbia University Vagelos College of Physicians and Surgeons", lat: 40.8405, lng: -73.9428, mcat: 522, interviewRate: "10.84%", acceptanceRate: "1.92%", rank: 4 },
     { name: "University of Chicago Pritzker School of Medicine", lat: 41.7894, lng: -87.6044, mcat: 519, interviewRate: "9.78%", acceptanceRate: "1.81%", rank: 17 },
     { name: "Cleveland Clinic Lerner College of Medicine", lat: 41.5020, lng: -81.6197, mcat: 517, interviewRate: "14.90%", acceptanceRate: "1.50%", rank: 25 },
-    { name: "Harvard Medical School", lat: 42.3632, lng: -71.0942, mcat: 519, interviewRate: "11.00%", acceptanceRate: "2.30%", rank: 1 }
+    { name: "Harvard Medical School", lat: 42.3632, lng: -71.0942, mcat: 519, interviewRate: "11.00%", acceptanceRate: "2.30%", rank: 1 },
+    { name: "Northwestern University Feinberg School of Medicine", lat: 41.8944, lng: -87.6216, mcat: 520, interviewRate: "14.00%", acceptanceRate: "2.40%", rank: 13 }
+
 
 ];
 
